@@ -61,7 +61,7 @@ div.container.bloc-lg.form{
 }
 
 #bloc-7 {
-    max-width: 500px;
+    max-width: 600px;
     margin: 15px auto;
     border: 1px solid #666666;
 }
@@ -560,7 +560,7 @@ button {
     opacity: 1;
 }
 
-a[data-lightbox] {
+/*a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
@@ -667,7 +667,7 @@ a[data-lightbox]:hover img {
     padding: 0;
     color: rgba(0, 0, 0, .5);
     background: none;
-}
+}*/
 
 h1,
 h2,
