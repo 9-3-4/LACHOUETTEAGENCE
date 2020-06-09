@@ -218,7 +218,7 @@ div.container.bloc-lg.form{
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: #212121;
 }
 
 .d-bloc .panel button:hover,
@@ -660,7 +660,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #212121!important;
 }
 
 .portfolio-thumb {
@@ -812,36 +812,6 @@ h4 {
         background-attachment: scroll;
     }
 }
-
-/*@media (max-width: 991px) {
-    .container {
-        width: 100%;
-    }
-    .b-parallax {
-        background-attachment: scroll;
-    }
-    .page-container,
-    #hero-bloc {
-        overflow-x: hidden;
-        position: relative;
-    }
-    .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
-    .bloc-group,
-    .bloc-group .bloc {
-        display: block;
-        width: 100%;
-    }
-    .bloc-fill-screen .fill-bloc-top-edge,
-    .bloc-fill-screen .fill-bloc-bottom-edge {
-        padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
-}*/
-
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
